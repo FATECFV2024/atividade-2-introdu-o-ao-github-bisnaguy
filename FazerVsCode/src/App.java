@@ -1,4 +1,4 @@
-public class App {
+public class Ra2920482411049 {
     public static void main(String[] args) {
         System.out.println("Meu nome completo é Gabriel Azambuja Silva");
         System.out.println("Meu RA é 2920482411049");
